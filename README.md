@@ -1,14 +1,5 @@
+```
 --port              [string]：Sender Port                                      (default：8091)
 --host-ip           [string]：Receiver IP address                              (default：127.0.0.1)
 --host-port         [string]：Receiver Port                                    (default：5600)
---model             [string]：Inference model name                             (default：yolov7)
---width             [int]   ：Inference model input width                      (default：640)
---height            [int]   ：Inference model input height                     (default：640)
---url               [string]：Inference server URL                             (default：localhost:8001)
---fps               [float] ：Video output fps                                 (default：24.0)
---verbose           [N/A]   ：Enable verbose client output                     (default：False)
---client-timeout    [float] ：Client timeout in seconds, default no timeout    (default：None)
---ssl               [N/A]   ：Enable SSL encrypted channel to the server       (default：False)
---root-certificates [string]：File holding PEM-encoded root certificates       (default：None)
---private-key       [string]：File holding PEM-encoded private key             (default：None)
---certificate-chain [string]：File holding PEM-encoded certicate chain         (default：None)
+```
